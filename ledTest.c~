@@ -1,0 +1,17 @@
+/*
+ * ledTest.c
+ *
+ * Created: 10/27/2019 3:45:53 AM
+ * Author: NP
+ */
+
+#include <io.h>
+
+void main(void)
+{
+while (1)
+    {
+    // Please write your application code here
+
+    }
+}
