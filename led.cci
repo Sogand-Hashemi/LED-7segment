@@ -1,0 +1,7 @@
+VERSION:3 SOURCE_TIMESTAMP:4F5B9E69
+NODE:I LEVEL:0 LINE:8 "D:\New folder\codeVision\inc\io.h"
+NODE:I LEVEL:0 LINE:9 "D:\New folder\codeVision\inc\mega16.h"
+NODE:I LEVEL:0 LINE:10 "D:\New folder\codeVision\inc\delay.h"
+NODE:M LEVEL:0 LINE:11 "xtal"
+NODE:V LEVEL:0 LINE:12 "number -> R4,R5"
+NODE:F LEVEL:0 LINE:13 "main(void)"
